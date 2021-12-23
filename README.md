@@ -18,10 +18,15 @@ Starting in 1991, Nibbles was included with MS-DOS for a period of time as a QBa
   </tr>
 </table>
 
+# Install the gem ruby2d
 
-Install the gem
+    $sudo apt-get update
 
-Now you’re ready to install the Ruby 2D gem! On your command line, run:
+    $sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev
 
-gem install ruby2d
+    $gem install ruby2d
 
+
+# Run the game
+
+    $ruby snake
