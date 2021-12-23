@@ -11,9 +11,9 @@ Starting in 1991, Nibbles was included with MS-DOS for a period of time as a QBa
 
 <table width:100%>
   <tr>
-    <td><img src="./_/SnakeGame_img1.jpg"></td>
-    <td><img src="./_/SnakeGame_img2.jpg"></td>
-    <td><img src="./_/SnakeGame_img3.jpg"></td>
-    <td><img src="./_/SnakeGame_img4.jpg"></td>
+    <td><img src="./_/SnakeGame_img1.png"></td>
+    <td><img src="./_/SnakeGame_img2.png"></td>
+    <td><img src="./_/SnakeGame_img3.png"></td>
+    <td><img src="./_/SnakeGame_img4.png"></td>
   </tr>
 </table>
